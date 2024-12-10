@@ -7,7 +7,6 @@ import plotly.express as px
 import dash
 from dash import Dash, html, dcc, Input, Output, callback
 import dash_bootstrap_components as dbc
-from networkx.algorithms import community
 from dash.dependencies import Input, Output, State
 
 """### Reading the Data."""
